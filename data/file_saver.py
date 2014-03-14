@@ -1,5 +1,7 @@
 """
+file_saver.py
 This script downloads pages from http://blog.kaggle.com/category/dojo/ and saves the html.
+Script 1 of 3 in the pipeline for getting languages used by Kaggle winners.
 """
 import requests
 from bs4 import BeautifulSoup

@@ -1,5 +1,7 @@
 """
-This file reads a list of blogs and mines it for mentions of popular tools
+blog_miner.py
+Reads a list of blogs and mines it for mentions of popular tools
+Script 2 of 3 in the pipeline for getting languages used by Kaggle winners.
 """
 import time
 import json

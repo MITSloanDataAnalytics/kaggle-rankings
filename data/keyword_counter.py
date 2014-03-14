@@ -1,5 +1,7 @@
 """
-This script counts the number of times tools appear in kaggle blog posts
+keyword_counter.py
+Counts the number of times tools appear in kaggle winner interviews.
+Script 3 of 3 in the pipeline for getting languages used by Kaggle winners.
 """
 import re
 import json

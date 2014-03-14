@@ -1,5 +1,7 @@
 """
-Script to profiles of all the kaggle competitors!
+profile_finder.py
+Finds the profile links for all kaggle competitors!
+Script 1 of 2 for finding top languages/tools used by kaggle competitors
 """
 import requests
 import time
